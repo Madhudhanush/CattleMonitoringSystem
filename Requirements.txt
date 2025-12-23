@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 ultralytics
-python-multipart
 opencv-python-headless
+python-multipart
+jinja2
 numpy
