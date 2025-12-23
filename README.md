@@ -10,7 +10,10 @@ A real-time AI-powered system designed to detect and count cattle using Computer
 ## 🚀 Live Demo
 
 Experience the application live on Hugging Face Spaces:
-**[👉 Click Here to View Live Demo](https://madhudhanushk-cattlemonitoringsystem.hf.space)**
+<a href="https://madhudhanushk-cattlemonitoringsystem.hf.space" target="_blank" rel="noopener noreferrer">
+👉 Click Here to View Live Demo
+</a>
+
 
 *(Note: The live demo is hosted on a CPU-basic instance, so detection speed may vary.)*
 
